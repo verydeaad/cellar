@@ -1,2 +1,2 @@
-# cellar
-simple statically-typed systems programming language
+## cellar
+*simple statically-typed systems programming language*
